@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="768d1a2e-51c5-41f8-b5c4-d0d554303914" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="768d1a2e-51c5-41f8-b5c4-d0d554303914" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673085458709</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="branche one created with empty message">
+      <created>1673086298325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673086298325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,7 +74,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/branche-one" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -79,6 +96,7 @@
     <MESSAGE value="I changed Hello world to Hello Mister" />
     <MESSAGE value="I changed Hello world to Hello Mister&#10;Mister -&gt; My Dears" />
     <MESSAGE value="My Dears -&gt; My Dear" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Dears -&gt; My Dear" />
+    <MESSAGE value="branche one created with empty message" />
+    <option name="LAST_COMMIT_MESSAGE" value="branche one created with empty message" />
   </component>
 </project>
